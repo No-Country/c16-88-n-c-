@@ -16,7 +16,7 @@ const Navbar = () => {
               alt="Logo principal de la aplicación"
             />
           </span>
-          <span>FlowBite</span>
+          <span>FlowCode</span>
         </Link>
       </h1>
       <ul className="flex gap-x-4 flex-col items-center sm:flex-row gap-4">
