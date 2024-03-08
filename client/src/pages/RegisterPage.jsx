@@ -76,7 +76,7 @@ const RegisterPage = () => {
             <p className="text-red-500">{errors.password?.message}</p>
           )}
 
-          <Label htmlFor="confirmPassword">Confirm Password:</Label>
+          <Label htmlFor="confirmPassword">Confirma contraseña:</Label>
           <Input
             type="password"
             name="confirmPassword"
